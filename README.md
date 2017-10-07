@@ -25,4 +25,5 @@ but in your article - https://michaeldimmitt.wordpress.com/2017/07/12/anyone-any
 - I think there is bearly highlighted information for newcomers in an appropriate way, all articles seem like copy/paste.
 there are not paths or roadmaps for newcomers and what they going to deal with 
  
- 
+ ## test
+testy test.
