@@ -30,3 +30,10 @@ there are not paths or roadmaps for newcomers and what they going to deal with
 Please read and tell me if this is good for beginners.
 Please provide feedback on how it could be improved, thanks Michael Dimmitt.
 https://michaeldimmitt.wordpress.com/2017/10/18/that-blog-ive-been-meaning-to-write/
+
+### newcomer 
+ 
+@Michael, there is a brilliant post about core structure of programming for newcomers, it makes a lot of sense 
+Now newcomer is familiar what to deal with.Just looking forward to the roadmap 😃😃😃
+Thank you for your contribution 
+
