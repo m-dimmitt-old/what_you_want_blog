@@ -25,4 +25,8 @@ but in your article - https://michaeldimmitt.wordpress.com/2017/07/12/anyone-any
 - I think there is bearly highlighted information for newcomers in an appropriate way, all articles seem like copy/paste.
 there are not paths or roadmaps for newcomers and what they going to deal with 
  
- 
+@Vladamir, I still need to write the Roadmap that you are talking about. that will be a seprate blog post. However take a look at this post which is still unfinished. 
+
+Please read and tell me if this is good for beginners.
+Please provide feedback on how it could be improved, thanks Michael Dimmitt.
+https://michaeldimmitt.wordpress.com/2017/10/18/that-blog-ive-been-meaning-to-write/
